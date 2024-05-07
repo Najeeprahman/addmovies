@@ -1,5 +1,8 @@
 # Deploy link 
 https://add-movies.netlify.app/
+![Screenshot from 2024-05-07 20-25-50](https://github.com/Najeeprahman/addmovies/assets/157038871/f8ffdab6-9b18-4446-a557-420e8b544670)
+
+![Screenshot from 2024-05-07 20-25-58](https://github.com/Najeeprahman/addmovies/assets/157038871/e13daed2-1e37-48c5-ac80-796ec417cbde)
 
 
 
